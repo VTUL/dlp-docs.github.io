@@ -1,2 +1,2 @@
-# dlp-docs
+# VTUL Digital Libraries and Preservation Documentation
 DLP Docs
