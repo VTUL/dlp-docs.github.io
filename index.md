@@ -2,7 +2,7 @@
 layout: default
 title: Digital Library & Preservation Documentation
 ---
-| <!-- -->    | <!-- -->    | <!-- -->    | <!-- -->    |
+
 |-------------|-------------|-------------|-------------|
 | [Home](/index.md)  |[Profiles](/Profiles.md)| [Procedures](/Procedures.md)|  [Archive](/Archive.md) |
 
